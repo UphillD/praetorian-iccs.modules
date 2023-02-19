@@ -1,0 +1,8 @@
+# External files
+build/external/
+
+# Python files
+__pycache__/
+
+# Kate temporary files
+*.kate-swp
