@@ -39,12 +39,6 @@ A multimodal classification technique to both image and text elements of
 a tweet, in order to automatically detect those that contain valuable
 information quickly and effectively.
 
-### Post Recommendator (Recommendation of customizable social media posts targeting the public during crises)
-
-After receiving an incident report, this module generates a prefilled social media
-post based on carefully crafted templates, and offers it to the security officer,
-who can then optionally edit it and post it.
-
 ## Usage
 
 **Launch:**
